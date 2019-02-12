@@ -6,4 +6,4 @@ edition = "2018"
 
 [dependencies]
 
-enum_dispatch = { git = "https://gitlab.com/lijinpei/enum_dispatch", branch = "tls" }
+enum_dispatch = "0.1.2"
